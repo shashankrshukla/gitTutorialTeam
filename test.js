@@ -16,7 +16,3 @@ function factorial(n) {
 let n = 4;
 answer = factorial(n)
 console.log("Factorial of " + n + " : " + answer);
-console.log("a brannch changes")
-console.log("shashankrshukla");
-console.log("sshukla0701")
-console.log("b branch changes")
