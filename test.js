@@ -17,3 +17,5 @@ let n = 4;
 answer = factorial(n)
 console.log("Factorial of " + n + " : " + answer);
 console.log("A1")
+console.log("Adding some B1 stuff");
+console.log("Adding Some A1 stuff")
