@@ -19,3 +19,4 @@ console.log("Factorial of " + n + " : " + answer);
 console.log("Print B")
 console.log("Print A")
 console.log("Print A")
+console.log("Print B")
